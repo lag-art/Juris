@@ -130,7 +130,7 @@ export default function Events() {
             href="#register"
             className="bg-primary text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-blue-900 transition"
           >
-            Get Involved in Upcoming Events
+            Get Involved
           </a>
         </motion.div>
 
